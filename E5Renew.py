@@ -1,9 +1,9 @@
 import requests, json, sys
 
-# Current Version: 1.0.0
+# Current Version: 1.0.1
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/E5Renew.git" && chmod 0777 ./E5Renew/E5Renew.py && python ./E5Renew/E5Renew.py
+# git clone "https://github.com/hezhijie0327/E5Renew.git" && python ./E5Renew/E5Renew.py
 
 ## Parameter
 client_id = r"config_client_id"
