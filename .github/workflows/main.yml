@@ -1,4 +1,4 @@
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 name: Build & Release hezhijie0327/E5Renew
 
@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Step 1 - Checkout
-              uses: actions/checkout@v2.5.0
+              uses: actions/checkout@v3.1.0
             - name: Step 2 - Setup Python Environment
               uses: actions/setup-python@v4.3.0
             - name: Step 3 - Install requests
